@@ -1,36 +1,4 @@
-FORMALIZAÇÃO DA ORIENTAÇÃO DO TG
-
-Curso: BANCO DE DADOS
-Nome do(s) Alunos(s)	RA	Telefone
-Douglas Hiromi Nishiama	1460281623012 	(012) 98110-3986
- 	 	 
-E-mail:    douglas.nishiama@fatec.sp.gov.br
-Nome do(s) Orientador(es)	E-mail
- 	 
-Tema proposto:  
-Ver anexo.
-Categoria do TG:     (    ) Científico     (X) Tecnológico
-Justificativa:  
-Ver anexo.
-
-
-_____/_____/__________	__________________________________________________________________
-				Orientador
-									
-									
-_____/_____/__________	__________________________________________________________________
-				Aluno
-									
-Validação do coordenador de curso: (    ) Aprovado    (     ) Reprovado
-Justificativa em caso de reprovação:
- 
- 
-									
-_____/_____/__________	_____________________________________________________
-				Coordenador
-
- 
-Trabalho de Graduação
+Trabalho de Graduação 1
 
 1- Problema
 Dificuldade de gestão do serviço de outsourcing de impressão.
